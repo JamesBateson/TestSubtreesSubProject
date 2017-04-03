@@ -1,1 +1,3 @@
 Making some changes in the sub project.
+
+Make some changes in the main project.
